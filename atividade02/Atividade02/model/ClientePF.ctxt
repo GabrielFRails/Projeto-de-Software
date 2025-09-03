@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ClientePF
+comment1.params=
+comment1.target=ClientePF()
+comment2.params=
+comment2.target=java.lang.String\ getCpf()
+comment3.params=cpf
+comment3.target=void\ setCpf(java.lang.String)
+numComments=4

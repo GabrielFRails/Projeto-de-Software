@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ClienteRepositorio
+comment1.params=database
+comment1.target=ClienteRepositorio(Database)
+comment2.params=database
+comment2.target=void\ setDatabase(Database)
+comment3.params=cliente
+comment3.target=Cliente\ create(Cliente)
+comment4.params=cliente
+comment4.target=void\ update(Cliente)
+comment5.params=cliente
+comment5.target=void\ delete(Cliente)
+comment6.params=id
+comment6.target=Cliente\ loadFromId(int)
+comment7.params=
+comment7.target=java.util.List\ loadAll()
+numComments=8
